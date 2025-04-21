@@ -1,0 +1,29 @@
+{
+  "name": "dai_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AriUrbano/DAI_Server.git"
+  },
+  "author": "Urbano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AriUrbano/DAI_Server/issues"
+  },
+  "homepage": "https://github.com/AriUrbano/DAI_Server#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
